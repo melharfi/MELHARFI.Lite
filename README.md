@@ -1,4 +1,4 @@
-<img src="assets/logo.png" width = "100">
+<img src="[assets/logo.png](https://raw.githubusercontent.com/melharfi/MELHARFI-2D-Game-Engine/master/assets/logo.png)" width = "100">
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/melharfi/MELHARFI.Lite/blob/master/LICENSE.md)
 [![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://github.com/melharfi/MELHARFI.Lite)
